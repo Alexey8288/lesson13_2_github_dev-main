@@ -15,10 +15,21 @@ body {
   margin-right: auto;
   margin-left: auto;
 
-  background-color: orange;
+  background-color: yellow;
+}
+
+div {
+  padding: 20px;
+
+  text-align: center;
 }
 
 .test {
   color: white;
   background-color: red;
+}
+
+.test-dev {
+  color: orangered;
+  background-color: greenyellow;
 }
