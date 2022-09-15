@@ -24,6 +24,10 @@ div {
   text-align: center;
 }
 
+.master {
+  background-color: green;
+}
+
 .test {
   color: white;
   background-color: red;
