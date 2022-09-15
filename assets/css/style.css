@@ -37,3 +37,8 @@ div {
   color: orangered;
   background-color: greenyellow;
 }
+
+.test-dev__secondary {
+  color: white;
+  background-color: blue;
+}
