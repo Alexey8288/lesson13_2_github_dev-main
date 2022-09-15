@@ -25,20 +25,20 @@ div {
 }
 
 .master {
-  background-color: green;
+  background-color: white;
 }
 
 .test {
-  color: white;
-  background-color: red;
+  color: yellowgreen;
+  background-color: white;
 }
 
 .test-dev {
   color: orangered;
-  background-color: greenyellow;
+  background-color: white;
 }
 
 .test-dev__secondary {
-  color: white;
-  background-color: blue;
+  color: yellowgreen;
+  background-color: white;
 }

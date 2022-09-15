@@ -20,22 +20,26 @@ div {
     text-align: center;
 }
 .master {
-    background-color: green;
+    background-color: white;
+    // background-color: green;
 }
 
 
 .test {
-    color: white;
-    background-color: red;
+    color: yellowgreen;
+        background-color: white;
+    // background-color: red;
 }
 
 .test-dev {
     color: orangered;
-    background-color: greenyellow;
+    background-color: white;
+    // background-color: greenyellow;
 }
 
 
 .test-dev__secondary {
-    color: white;
-        background-color: blue;
+color: yellowgreen;
+background-color: white;
+        // background-color: blue;
 }
