@@ -16,6 +16,7 @@ body {
   margin-left: auto;
 
   background-color: red;
+  background-color: yellow;
 }
 
 div {
@@ -26,19 +27,23 @@ div {
 
 .master {
   background-color: white;
+  background-color: green;
 }
 
 .test {
   color: yellowgreen;
   background-color: white;
+  background-color: red;
 }
 
 .test-dev {
   color: orangered;
   background-color: white;
+  background-color: greenyellow;
 }
 
 .test-dev__secondary {
   color: yellowgreen;
   background-color: white;
+  background-color: blue;
 }
